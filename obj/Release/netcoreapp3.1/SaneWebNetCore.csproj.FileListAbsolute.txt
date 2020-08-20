@@ -1,0 +1,9 @@
+C:\Users\denie\source\repos\SaneWebNetCore\bin\Release\netcoreapp3.1\SaneWebNetCore.deps.json
+C:\Users\denie\source\repos\SaneWebNetCore\bin\Release\netcoreapp3.1\SaneWebNetCore.dll
+C:\Users\denie\source\repos\SaneWebNetCore\bin\Release\netcoreapp3.1\SaneWebNetCore.pdb
+C:\Users\denie\source\repos\SaneWebNetCore\obj\Release\netcoreapp3.1\SaneWebNetCore.AssemblyInfoInputs.cache
+C:\Users\denie\source\repos\SaneWebNetCore\obj\Release\netcoreapp3.1\SaneWebNetCore.AssemblyInfo.cs
+C:\Users\denie\source\repos\SaneWebNetCore\obj\Release\netcoreapp3.1\SaneWebNetCore.csproj.CoreCompileInputs.cache
+C:\Users\denie\source\repos\SaneWebNetCore\obj\Release\netcoreapp3.1\SaneWebNetCore.dll
+C:\Users\denie\source\repos\SaneWebNetCore\obj\Release\netcoreapp3.1\SaneWebNetCore.pdb
+C:\Users\denie\source\repos\SaneWebNetCore\obj\Release\netcoreapp3.1\SaneWebNetCore.csprojAssemblyReference.cache
